@@ -9,7 +9,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
-        versionName "1.0"
+        versionName "0.0.1"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -22,6 +22,32 @@ android {
         }
     }
 
+}
+ext {
+    bintrayRepo = 'aksimagetoolbar'
+    bintrayName = 'image-toolbar'
+
+    publishedGroupId = 'com.instanect.aksimagetoolbar'
+    libraryName = 'aksrestvolley'
+    artifact = 'aksrestvolley'
+
+    libraryDescription = 'A collection of base classes for MVPtra'
+
+    siteUrl = 'https://github.com/cooldude77/AKSImageToolbar'
+    gitUrl = 'https://github.com/cooldude77/AKSImageToolbar.git'
+
+    libraryVersion = '0.0.1'
+
+    developerId = 'cooldude77'
+    developerName = 'Ashvini'
+    developerEmail = 'ashvinisaxena77@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+
+    apply from: 'install.gradle'
+    apply from: 'bintray.gradle'
 }
 
 dependencies {

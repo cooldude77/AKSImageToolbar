@@ -5,7 +5,7 @@ import android.net.Uri;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 
-import com.instanect.imagetoolbar.image.imageView.interfaces.AppImageViewChangedListenerInterface;
+import com.instanect.aksimagetoolbar.image.imageView.interfaces.AppImageViewChangedListenerInterface;
 
 /**
  AppImageView

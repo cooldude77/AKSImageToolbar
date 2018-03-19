@@ -6,8 +6,8 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.RelativeLayout;
 
-import com.instanect.imagetoolbar.image.toolbar.view.interfaces.OnToolbarViewDeleteButtonClickListener;
-import com.instanect.imagetoolbar.image.toolbar.view.interfaces.OnToolbarViewUndoButtonClickListener;
+import com.instanect.aksimagetoolbar.image.toolbar.view.interfaces.OnToolbarViewDeleteButtonClickListener;
+import com.instanect.aksimagetoolbar.image.toolbar.view.interfaces.OnToolbarViewUndoButtonClickListener;
 
 import static junit.framework.Assert.assertNotNull;
 

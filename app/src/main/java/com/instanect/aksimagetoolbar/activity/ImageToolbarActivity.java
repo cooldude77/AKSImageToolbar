@@ -5,11 +5,12 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
-import com.instanect.imagetoolbar.R;
-import com.instanect.imagetoolbar.image.imageView.AppImageView;
-import com.instanect.imagetoolbar.image.toolbar.AppImageToolbarMediator;
-import com.instanect.imagetoolbar.image.toolbar.interfaces.AppImageToolbarEventListenerInterface;
-import com.instanect.imagetoolbar.image.toolbar.view.AppImageToolbarView;
+import com.instanect.aksimagetoolbar.R;
+import com.instanect.aksimagetoolbar.imageView.AppImageView;
+import com.instanect.aksimagetoolbar.toolbar.AppImageToolbarMediator;
+import com.instanect.aksimagetoolbar.toolbar.interfaces.AppImageToolbarEventListenerInterface;
+import com.instanect.aksimagetoolbar.toolbar.view.AppImageToolbarView;
+
 
 /**
  * Created by AKS on 2/7/2018.

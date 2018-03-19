@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">VirginProject</string>
+    <string name="app_name">AKS ImageToolbar</string>
+    <string name="content_desc_click_here_to_delete_image">Click here to delete image</string>
+    <string name="content_desc_click_here_to_undo_changes_to_image">Click here to undo change</string>
+
 </resources>

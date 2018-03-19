@@ -1,9 +1,9 @@
 package com.instanect.aksimagetoolbar.di;
 
-import com.instanect.imagetoolbar.image.imageView.AppImageView;
-import com.instanect.imagetoolbar.image.toolbar.AppImageToolbarMediator;
-import com.instanect.imagetoolbar.image.toolbar.interfaces.AppImageToolbarEventListenerInterface;
-import com.instanect.imagetoolbar.image.toolbar.view.AppImageToolbarView;
+import com.instanect.aksimagetoolbar.image.imageView.AppImageView;
+import com.instanect.aksimagetoolbar.image.toolbar.AppImageToolbarMediator;
+import com.instanect.aksimagetoolbar.image.toolbar.interfaces.AppImageToolbarEventListenerInterface;
+import com.instanect.aksimagetoolbar.image.toolbar.view.AppImageToolbarView;
 
 /**
  * Created by AKS on 2/6/2018.
