@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AKSImageToolbar.iml" filepath="$PROJECT_DIR$/AKSImageToolbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aksimagetoolbar/aksimagetoolbar.iml" filepath="$PROJECT_DIR$/aksimagetoolbar/aksimagetoolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
