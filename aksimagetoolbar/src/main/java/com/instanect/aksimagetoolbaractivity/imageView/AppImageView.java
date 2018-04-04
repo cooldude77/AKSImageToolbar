@@ -1,11 +1,12 @@
-package com.instanect.aksimagetoolbar.imageView;
+package com.instanect.aksimagetoolbaractivity.imageView;
 
 import android.content.Context;
 import android.net.Uri;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 
-import com.instanect.aksimagetoolbar.image.imageView.interfaces.AppImageViewChangedListenerInterface;
+import com.instanect.aksimagetoolbaractivity.imageView.interfaces.AppImageViewChangedListenerInterface;
+
 
 /**
  AppImageView

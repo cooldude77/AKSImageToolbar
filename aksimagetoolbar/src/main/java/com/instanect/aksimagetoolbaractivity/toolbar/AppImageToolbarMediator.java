@@ -1,13 +1,13 @@
-package com.instanect.aksimagetoolbar.toolbar;
+package com.instanect.aksimagetoolbaractivity.toolbar;
 
 import android.net.Uri;
 
-import com.instanect.aksimagetoolbar.imageView.AppImageView;
-import com.instanect.aksimagetoolbar.imageView.interfaces.AppImageViewChangedListenerInterface;
-import com.instanect.aksimagetoolbar.toolbar.interfaces.AppImageToolbarEventListenerInterface;
-import com.instanect.aksimagetoolbar.toolbar.view.AppImageToolbarView;
-import com.instanect.aksimagetoolbar.toolbar.view.interfaces.OnToolbarViewDeleteButtonClickListener;
-import com.instanect.aksimagetoolbar.toolbar.view.interfaces.OnToolbarViewUndoButtonClickListener;
+import com.instanect.aksimagetoolbaractivity.imageView.AppImageView;
+import com.instanect.aksimagetoolbaractivity.imageView.interfaces.AppImageViewChangedListenerInterface;
+import com.instanect.aksimagetoolbaractivity.toolbar.interfaces.AppImageToolbarEventListenerInterface;
+import com.instanect.aksimagetoolbaractivity.toolbar.view.AppImageToolbarView;
+import com.instanect.aksimagetoolbaractivity.toolbar.view.interfaces.OnToolbarViewDeleteButtonClickListener;
+import com.instanect.aksimagetoolbaractivity.toolbar.view.interfaces.OnToolbarViewUndoButtonClickListener;
 
 /**
  * Created by AKS on 2/7/2018.

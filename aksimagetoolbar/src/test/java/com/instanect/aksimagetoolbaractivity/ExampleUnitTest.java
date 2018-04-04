@@ -1,4 +1,4 @@
-package com.instanect.aksimagetoolbar;
+package com.instanect.aksimagetoolbaractivity;
 
 import org.junit.Test;
 

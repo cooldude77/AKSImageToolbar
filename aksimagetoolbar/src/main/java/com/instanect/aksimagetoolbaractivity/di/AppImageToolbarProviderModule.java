@@ -1,4 +1,4 @@
-package com.instanect.aksimagetoolbar.di;
+package com.instanect.aksimagetoolbaractivity.di;
 
 import dagger.Module;
 import dagger.Provides;

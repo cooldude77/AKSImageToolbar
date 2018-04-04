@@ -1,4 +1,4 @@
-package com.instanect.aksimagetoolbar.toolbar.view;
+package com.instanect.aksimagetoolbaractivity.toolbar.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -6,8 +6,8 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.RelativeLayout;
 
-import com.instanect.aksimagetoolbar.image.toolbar.view.interfaces.OnToolbarViewDeleteButtonClickListener;
-import com.instanect.aksimagetoolbar.image.toolbar.view.interfaces.OnToolbarViewUndoButtonClickListener;
+import com.instanect.aksimagetoolbaractivity.toolbar.view.interfaces.OnToolbarViewDeleteButtonClickListener;
+import com.instanect.aksimagetoolbaractivity.toolbar.view.interfaces.OnToolbarViewUndoButtonClickListener;
 
 import static junit.framework.Assert.assertNotNull;
 

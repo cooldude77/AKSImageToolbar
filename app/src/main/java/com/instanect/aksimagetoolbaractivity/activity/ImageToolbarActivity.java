@@ -1,15 +1,15 @@
-package com.instanect.aksimagetoolbar.activity;
+package com.instanect.aksimagetoolbaractivity.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
-import com.instanect.aksimagetoolbar.R;
-import com.instanect.aksimagetoolbar.imageView.AppImageView;
-import com.instanect.aksimagetoolbar.toolbar.AppImageToolbarMediator;
-import com.instanect.aksimagetoolbar.toolbar.interfaces.AppImageToolbarEventListenerInterface;
-import com.instanect.aksimagetoolbar.toolbar.view.AppImageToolbarView;
+import com.instanect.aksimagetoolbaractivity.imageView.AppImageView;
+import com.instanect.aksimagetoolbaractivity.toolbar.AppImageToolbarMediator;
+import com.instanect.aksimagetoolbaractivity.toolbar.interfaces.AppImageToolbarEventListenerInterface;
+import com.instanect.aksimagetoolbaractivity.toolbar.view.AppImageToolbarView;
+import com.instanect.aksimagetoolbarapp.R;
 
 
 /**

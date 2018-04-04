@@ -1,4 +1,4 @@
-package com.instanect.aksimagetoolbar.toolbar.interfaces;
+package com.instanect.aksimagetoolbaractivity.toolbar.interfaces;
 
 /**
  * Created by AKS on 2/6/2018.
