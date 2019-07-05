@@ -2,8 +2,10 @@ package com.instanect.aksimagetoolbaractivity.imageView;
 
 import android.content.Context;
 import android.net.Uri;
-import android.support.annotation.Nullable;
 import android.util.AttributeSet;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatImageView;
 
 import com.instanect.aksimagetoolbaractivity.imageView.interfaces.AppImageViewChangedListenerInterface;
 
@@ -12,7 +14,7 @@ import com.instanect.aksimagetoolbaractivity.imageView.interfaces.AppImageViewCh
  AppImageView
  */
 
-public class AppImageView extends android.support.v7.widget.AppCompatImageView {
+public class AppImageView extends AppCompatImageView {
     private AppImageViewChangedListenerInterface appImageViewChangedListenerInterface;
     private Uri imageViewUri;
 
