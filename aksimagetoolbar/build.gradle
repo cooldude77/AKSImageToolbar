@@ -1,13 +1,13 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 15
-        targetSdkVersion 27
-        versionCode 3
-        versionName "0.0.3"
+        targetSdkVersion 28
+        versionCode 4
+        versionName "1.0.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
@@ -34,7 +34,7 @@ ext {
     siteUrl = 'https://github.com/cooldude77/AKSImageToolbar'
     gitUrl = 'https://github.com/cooldude77/AKSImageToolbar.git'
 
-    libraryVersion = '0.0.3'
+    libraryVersion = '1.0.0'
 
     developerId = 'cooldude77'
     developerName = 'Ashvini'
