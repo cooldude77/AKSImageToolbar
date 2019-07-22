@@ -6,8 +6,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 4
-        versionName "1.0.0"
+        versionCode 5
+        versionName "1.0.1"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
@@ -34,7 +34,7 @@ ext {
     siteUrl = 'https://github.com/cooldude77/AKSImageToolbar'
     gitUrl = 'https://github.com/cooldude77/AKSImageToolbar.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'cooldude77'
     developerName = 'Ashvini'
@@ -51,8 +51,8 @@ ext {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     // Dagger
-    implementation 'com.google.dagger:dagger:2.18'
-    annotationProcessor 'com.google.dagger:dagger-compiler:2.18'
+    implementation 'com.google.dagger:dagger:2.23'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.23'
     implementation('androidx.appcompat:appcompat:1.0.2') {
         exclude group: 'com.android.support:exifinterface'
     }
